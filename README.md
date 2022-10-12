@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Demo https://psinha6.github.io/monsters-rolodex-react-functional/index.html
+Demo https://psinha6.github.io/monster-rolodex-react-functional/index.html
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
